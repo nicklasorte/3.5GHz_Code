@@ -2,6 +2,8 @@
 
 This code is for the CatB Neighborhood distance sims.
 
+Warning: This software uses a .dll for the ITM prop model which is not included. You will have to modify WinnForum_ITMP2P_parchunk_self_contained_GUI.m to call your implementation of ITM.
+
 To start sim: open and run START_HERE_mulitpoint_neighborhood_sim_rev1.m
 (Tested in Matlab2017b)
 
